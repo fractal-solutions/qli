@@ -2,8 +2,6 @@
 
 ✨ Welcome to QLI, your interactive command-line interface powered by Bun and OpenAI! ✨
 
-QLI is designed to streamline your software development tasks by providing an AI assistant directly in your terminal. It understands natural language commands for file operations, shell execution, and more, all presented with a visually appealing interface.
-
 ## Features
 
 *   **AI-Powered Interaction**: Communicate with an AI assistant for development tasks.
